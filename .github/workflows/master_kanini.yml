@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Kanini'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_989D5C963B13449AB2A0B89896821BAC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58DC5BCF04BC4C05B8FD9E58686CE333 }}
           package: .
